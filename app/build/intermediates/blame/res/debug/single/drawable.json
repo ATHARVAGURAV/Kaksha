@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/github.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/github.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/grad_dark.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/grad_dark.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_location.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_location.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/debsoc.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/debsoc.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_calendar_month.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_calendar_month.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_home.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_home.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/bullethawk.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/bullethawk.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/hackerearth_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/hackerearth_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/park_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/park_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/rotaract.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/rotaract.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/hackerrank_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/hackerrank_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/codeforces_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/codeforces_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_feedback_black_24dp.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_feedback_black_24dp.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/nightclub_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/nightclub_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/junoon.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/junoon.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/collegespace.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/collegespace.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/unknown_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/unknown_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/codechef_cover.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/codechef_cover.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/github_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/github_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/uri_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/uri_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/saisumit_vohra.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/saisumit_vohra.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/hackerearth_cover.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/hackerearth_cover.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/prabhakar.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/prabhakar.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/quiz.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/quiz.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/swati_garg.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/swati_garg.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/enactus.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/enactus.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/facebook.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/facebook.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_user.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_user.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/amuse_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/amuse_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ayush_verma.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ayush_verma.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/sb__bg.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/drawable/sb__bg.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/topcoder_cover.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/topcoder_cover.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/food_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/food_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_settings_white.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_settings_white.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/sb__btn_bg.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/drawable/sb__btn_bg.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/topcoder_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/topcoder_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/shadow_1.9.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/shadow_1.9.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/aagaz.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/aagaz.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ashwamedh.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ashwamedh.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/csi.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/csi.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/codechef_logo.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/codechef_logo.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/shadow_small.9.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/shadow_small.9.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/sagar_aggarwal.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/sagar_aggarwal.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/rest_hangout2.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/rest_hangout2.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/sidharth_patro.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/sidharth_patro.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_laptop_mac_black_24dp.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_laptop_mac_black_24dp.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/card.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/card.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/crosslinks.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/crosslinks.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/naman_maheshwari.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/naman_maheshwari.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/linkedin.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/linkedin.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/shadow_arkalt2.9.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/shadow_arkalt2.9.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_save.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_save.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/movie_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/movie_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_info.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/github1.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/github1.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_time.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_time.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_tiles_large.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_tiles_large.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/bowling_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/bowling_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ic_action_video.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ic_action_video.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/college_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/college_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/hackerrank_cover.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/hackerrank_cover.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/ieee.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/ieee.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/shoppingmall_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/shoppingmall_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/chetan.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/chetan.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/cafe_hangout.png",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/drawable/cafe_hangout.png"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    }
+]

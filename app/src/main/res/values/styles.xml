@@ -1,0 +1,34 @@
+<resources>
+
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- <item name="android:homeAsUpIndicator">@drawable/ic_action_list</item>-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimaryInverse">@color/textColorPrimaryInverse</item>
+
+        <!--<item name="android:actionBarStyle">@style/ActionBarStyle</item>-->
+    </style>
+
+
+    <style name="AppTheme2" parent="android:Theme.Material">
+               <!-- Customize your theme here. -->
+                <item name="android:colorPrimary">@color/primary</item>
+                <item name="android:colorPrimaryDark">@color/primary_dark</item>
+                <item name="android:colorAccent">@color/accent</item>
+                <item name="android:windowContentTransitions">true</item>
+
+            </style>
+
+
+    <style name="DetailTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/DetailActionBar</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="DetailActionBar" parent="android:Widget.Material.Light.ActionBar">
+        <item name="android:displayOptions">homeAsUp</item>
+    </style>
+</resources>

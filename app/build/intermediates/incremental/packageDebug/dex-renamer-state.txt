@@ -1,0 +1,7 @@
+#Tue Mar 06 14:06:53 IST 2018
+base.0=/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_baf5134343979f711be7a373ccc422806b7ee25f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_163665607907a0a3788394ea5d66e3d6c0b02ad2/classes.dex
+base.1=/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_163665607907a0a3788394ea5d66e3d6c0b02ad2
+file.0=/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_baf5134343979f711be7a373ccc422806b7ee25f/classes.dex

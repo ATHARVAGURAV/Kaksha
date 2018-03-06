@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/values-sw600dp-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 42,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 68,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 68,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 69,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 69,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 73,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 73,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 75,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 75,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 58,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 58,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 70,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 70,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 67,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 67,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 50,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/values-sw600dp-v13/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 50,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 45,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/values-sw600dp-v13/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 45,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 45,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/values-sw600dp-v13/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 45,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 54,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 54,
+                        "endOffset": 1126
+                    }
+                }
+            }
+        ]
+    }
+]

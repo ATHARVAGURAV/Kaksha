@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_94d87f8f032346f798d23f25f15c502c0c458658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-7.5.0_4b2fcf90c9f35ad0a4e8be16c43f9407b8adacff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_924a2c7f79cb85c71f5c3f0456e85263e391a13a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d913edb6690b87ab8bb1499e0836bf9e160ca0a">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nispok-snackbar-2.10.10_d6833393a512f891322a18479f35cb528b4c4274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_62e2ec831149c60d5c7e7e2eb1c02184eea98c0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_312f24ffbcbd12ac9434f38ece76291e567a532b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-7.5.0_44ecdb4d0a8021bbc2dcb7e09729eab32361bdf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="caaec1fc58039b635e81785bcf5ec650b0c5ff66">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_163665607907a0a3788394ea5d66e3d6c0b02ad2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69ef309f24a6b371917231bf5f8b6f7ec34f744f">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_baf5134343979f711be7a373ccc422806b7ee25f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_ada8110b0636f7c0168bd657982a93ceb558833c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/org.lucasr.twowayview/twowayview/0.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a2a997b75e4c94dac7051557be6b95a06566291">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.lucasr.twowayview-twowayview-0.1.4_86bfc6eee65f67686629bb10530f37576168568c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.5.0_14528b4d75a4c23c5cb1fc4a1d28f844cf1930ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.8.3_c7b05ddc188f4d3213924ad859f0aaef89515ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_443ca7ff15fc9cabdb402ee3ee083e595073712f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_c5adb48dcf8f6a4268eb2d1fb99baecba36aee4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_a1e80cb2f0ba48202131b0c587f5731af4e52321/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_1561d59afc86e1cdcee27d303262f4f4878c1189/classes.dex" />
+    </item>
+
+</items>

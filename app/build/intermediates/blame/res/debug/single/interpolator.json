@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/interpolator/sb__accelerate_cubic.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/interpolator/sb__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/interpolator/sb__decelerate_cubic.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/exploded-aar/com.nispok/snackbar/2.10.10/res/interpolator/sb__decelerate_cubic.xml"
+    }
+]

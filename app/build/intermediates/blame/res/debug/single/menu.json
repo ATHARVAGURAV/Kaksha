@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_feed.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_feed.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_contest_detail.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_contest_detail.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_hangouts.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_hangouts.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_contest_list.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_contest_list.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_calender.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_calender.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_image.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_image.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_final_feed.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_final_feed.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_calculator.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_calculator.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_home_notification.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_home_notification.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/menu/menu_subject_remove.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/menu/menu_subject_remove.xml"
+    }
+]

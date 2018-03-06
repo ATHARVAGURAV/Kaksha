@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/xml/pref_notification_settings.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/xml/pref_notification_settings.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/xml/syncadapter.xml"
+    }
+]

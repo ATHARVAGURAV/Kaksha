@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5605880876462"
+    token="-4782540246573000935"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2504" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1206" />
+    <task
+        name="verifier"
+        duration="164" />
+
+    <artifact
+        location="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="5605880876462"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/activity_choose_feed_items.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/activity_choose_feed_items.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/video_listitem.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/video_listitem.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/fragment_hangouts.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/fragment_hangouts.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/fragment_contest_detail.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/fragment_contest_detail.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/activity_decsription.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/activity_decsription.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/activity_calculator.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/activity_calculator.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/subject_list_item.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/subject_list_item.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/activity_choose.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/activity_choose.xml"
+    },
+    {
+        "merged": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/build/intermediates/res/merged/debug/layout-land/activity_sub_load.xml",
+        "source": "/Users/karanbagle/Desktop/Practice app/NSIT-Connect-master/app/src/main/res/layout-land/activity_sub_load.xml"
+    }
+]
